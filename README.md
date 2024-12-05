@@ -13,7 +13,7 @@ root
 
 ## Docker Configuration 
  - Make sure your docker is running
- - docker-compose up --build
+ - docker-compose up --d
  - will run at port 5432
 
 ## For Frontend and Backend, Please follow the instruction from README file on each directory
